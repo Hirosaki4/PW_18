@@ -4,7 +4,7 @@
 #include <stdexcept>
 #include <windows.h>
 
-using namespace std;  // Додано директиву для використання стандартної бібліотеки
+using namespace std;  
 
 class Employee {
 private:
